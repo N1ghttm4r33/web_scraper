@@ -1,4 +1,4 @@
-# 🔍 Web Scraper Avançado - CyberBackgroundChecks
+# 🔍 Web Scraper Avançado
 
 Um web scraper de alta performance desenvolvido especificamente para o site ***, com bypass de proteções Cloudflare e DataDome.
 
