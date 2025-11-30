@@ -6,7 +6,7 @@ Um web scraper de alta performance desenvolvido especificamente para o site ***,
 
 **Este projeto foi desenvolvido APENAS para fins educacionais e de pesquisa.** 
 
-- Desenvolvido especificamente para o site cyberbackgroundchecks.com
+- Desenvolvido especificamente para o site ***.com
 - **NÃO me responsabilizo** pelo uso indevido deste software
 - O uso deste código é de **total responsabilidade do usuário**
 - Pode violar os Termos de Serviço do site alvo
